@@ -1,0 +1,122 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.log-hedding{
+    font-weight: bold;
+}
+.movements{
+    /* border: 1px solid blue; */
+    padding: 20px;
+}
+.login-info{
+    margin-left: 6rem;
+}
+.main{
+    /* margin: 20px; */
+    margin-top: 1px;
+    margin-left: 1px;
+    border: 1px solid black;
+    width: 99.9%;
+    height: 900px;
+    background-color: rgb(238, 229, 229);
+}
+.navbar-brand{
+    margin-left: 20px;
+}
+.logo{
+    margin-left: 15rem;
+    margin-right: 10rem;
+}
+.user,.pin,.trans-to,.money{
+    text-align: center;
+    width: 100px;
+    /* border-radius: 10px; */
+}
+.request{
+    text-align: center;
+
+}
+.app{
+    opacity: 0%;
+    transition: all 1s;
+}
+
+.movement-ammount,.type-widrawal,.type-diposit{
+    border-bottom: 1px solid gray;
+    height: 50px;
+}
+.type-widrawal,.type-diposit{
+    padding: 10px;
+}
+.transfers{
+    background-color: white;
+    border-radius: 10px;
+    /* width: 500px; */
+    /* border:1px solid blue; */
+    padding-left: -20px;
+    padding: 20px;
+    max-height: 500px;
+    overflow-y:scroll;
+}
+/* .transactions{
+    border:1px solid blue;
+
+} */
+.transact{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    padding: 3px;
+}
+.trans-diposit{
+    color: white;
+    /* font-weight: bold; */
+    background:linear-gradient( rgb(157, 236, 30) 10% , rgb(2, 87, 75));
+}
+.trans-widrawal{
+    background-color: crimson;
+    /* font-weight: bold; */
+    color: white;
+}
+.current-ammount,.movement-ammount{
+    text-align: end;
+}
+.movement-ammount{
+     margin-right: 20px; 
+}
+.transfer-money{
+    margin-top: 40px;
+    padding: 10px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background: linear-gradient(rgb(169, 238, 250),rgb(238, 192, 198));
+}
+.request-loan{
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background: linear-gradient(#a40606,#d98324);
+}
+.money-hedding{
+    margin-bottom: 40px;
+}
+.in,.out{
+    font-weight: bold;
+    margin-right: 20px;
+}
+.in-hedding{
+font-size: 20px;
+font-weight: bold;
+color: #66c873;
+}
+.out-hedding{
+    font-size: 20px;
+font-weight: bold;
+color: #f549f5;
+}
+
+/* B9GN2DXXQC9DHKTGGWCR4X6XK */
